@@ -1,4 +1,5 @@
-Apache virtual host config
+Apache virtual host config.
+this config file available inside `apache/conf/extra`
 
 usage:
 
